@@ -9,3 +9,4 @@ Here’s a quick example: to make words bold using Markdown, you simply enclose 
 
 All told, Markdown is a great way to write for the web using plain text.
 
+![markdown1](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png)
