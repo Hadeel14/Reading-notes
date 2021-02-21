@@ -1,4 +1,3 @@
-# Reading-notes
 # The Growth Mindset
 A mindset may be so firmly established that it creates a powerful incentive within these people or groups to continue to adopt or accept prior behaviors, choices, or tools.
 The Growth mindset is briefly can considered as Individuals who believe that their talents can be developed (through hard work, good strategies, and input from others).
