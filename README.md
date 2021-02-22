@@ -5,6 +5,6 @@ you can contact using my GitHub link : https://github.com/Hadeel14
 
 | Title       | Link |
 | ----------- | ----------- |
-|   https://hadeel14.github.io/Reading-notes/mindset   | Title mindset      |
+|   https://hadeel14.github.io/Reading-notes/mindset   | mindset      |
 | https://hadeel14.github.io/Reading-notes/Git   | Git
    |https://hadeel14.github.io/Reading-notes/Markdown |  Markdown
